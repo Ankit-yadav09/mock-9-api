@@ -22,5 +22,13 @@
         "borrowed": false,
         "id":2
       }
+    ],
+    "users":[
+      {
+        "id":1,
+        "username":"akki",
+        "email":"akki@12",
+        "password":"akki12"
+      }
     ]
   }
