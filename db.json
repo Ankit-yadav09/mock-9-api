@@ -1,18 +1,26 @@
 {
     "books":[
       {
-        "id":1,
-        "name":"a",
-        "category":"a@a",
-        "difficulty":"aa",
-        "no_of_ques":5
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false,
+        "id":1
       },
       {
-        "id":2,
-        "name":"b",
-        "category":"b@b",
-        "difficulty":"bb",
-        "no_of_ques":8
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter 2",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2022",
+        "publisher": "Bloomsbury",
+        "cost": 1499,
+        "borrowed": false,
+        "id":2
       }
     ]
   }
